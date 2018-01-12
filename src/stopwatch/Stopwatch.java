@@ -230,4 +230,4 @@ public class Stopwatch extends JFrame {
 		
 	}
 
-} // end of class
+} //end of class
